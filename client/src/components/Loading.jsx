@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 
 const Loading = () => {
 
-    const navigate=useAppContext();
+    const {navigate}=useAppContext();
     let {search} = useLocation()
     const query = new URLSearchParams(search)
     const nextUrl=query.get('next');
@@ -14,7 +14,7 @@ const Loading = () => {
         if(nextUrl){
             setTimeout(()=>{
                 navigate(`/${nextUrl}`)
-            },5000)
+            },2000)
         }
     },[nextUrl])
   return (
