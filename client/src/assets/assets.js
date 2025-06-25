@@ -78,6 +78,7 @@ import talcumpowder_image from "./talcumpowder_image.png";
 import teaandcoffee_image from "./teaandcoffee_image.png";
 import shampoo_image from "./shampoo_image.png";
 import hairoil_image from "./hairoil_image.png";
+import meat_image from "./meat_image.png";
 import toothpasteandbrush_image from "./toothpasteandbrush_image.png";
 import oil_image_1 from "./oil_image_1.png";
 import oil_image_2 from "./oil_image_2.png";
@@ -278,6 +279,12 @@ export const categories = [
     path: "Hair Oils",
     image: hairoil_image,
     bgColor:"#F5F5DC",
+  },
+  {
+    text:"Meat",
+    path: "Meat",
+    image: meat_image,
+    bgColor:"#FEE0E0",
   }
 ];
 
