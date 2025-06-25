@@ -29,5 +29,3 @@ Here’s your **ShopSmart project summary** broken down into **15 clear points**
 14. **Setup & Deployment**: Easily set up using GitHub, with instructions to clone and run locally.
 
 15. **Hosting**: Deployed on **Vercel**, with clear documentation and video tutorials provided.
-
-Let me know if you want a diagram or a PDF version of this summary.
