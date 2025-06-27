@@ -1,31 +1,60 @@
-Here’s your **ShopSmart project summary** broken down into **15 clear points**:
 
-1. **Project Name**: ShopSmart – A digital grocery store web application.
 
-2. **Purpose**: To offer a seamless online shopping experience for customers.
+### 🛒 **ShopSmart Project Summary**
 
-3. **Frontend**: Built using **Angular** for responsive and interactive UI.
 
-4. **Backend**: Developed with **Node.js** and **Express.js** for server-side logic.
+1. **Project Name**:
+   **ShopSmart** – A digital grocery store web application.
 
-5. **Database**: Uses **MongoDB** to store user, product, and order data.
+2. **Purpose**:
+   To offer a **seamless online shopping experience** for customers.
 
-6. **User Features**: Users can browse products, manage carts, place orders, and track bookings.
+3. **Frontend**:
+   Built using **Angular** for a responsive and interactive user interface.
 
-7. **Admin Features**: Admins can manage users, products, orders, categories, and generate reports.
+4. **Backend**:
+   Developed with **Node.js** and **Express.js** for efficient server-side logic.
 
-8. **Seller Features**: Sellers can update inventory, handle product listings, and manage orders.
+5. **Database**:
+   Uses **MongoDB** to store **user, product, cart, and order** data.
 
-9. **Secure Checkout**: Includes payment integration with gateways like Stripe or PayPal.
+6. **User Features**:
+   Users can **browse products**, **manage carts**, **place orders**, and **track bookings**.
 
-10. **Authentication**: Implements secure login/register system with JWT-based authentication.
+7. **Admin Features**:
+   Admins can **manage users**, **products**, **orders**, **categories**, and **generate reports**.
 
-11. **Responsive Design**: Optimized for mobile, tablet, and desktop using CSS frameworks.
+8. **Seller Features**:
+   Sellers can **update inventory**, **handle listings**, and **manage received orders**.
 
-12. **Role-Based Access**: Differentiated features and permissions for users and admins.
+9. **Secure Checkout**:
+   Includes **payment gateway integration** using **Stripe** or **PayPal**.
 
-13. **API Integration**: Frontend communicates with backend using RESTful APIs.
+10. **Authentication**:
+    Implements secure **JWT-based login/register** system.
 
-14. **Setup & Deployment**: Easily set up using GitHub, with instructions to clone and run locally.
+11. **Responsive Design**:
+    Optimized for **mobile, tablet, and desktop** using modern CSS frameworks.
 
-15. **Hosting**: Deployed on **Vercel**, with clear documentation and video tutorials provided.
+12. **Role-Based Access**:
+    Supports **role-specific dashboards** and access controls for users, sellers, and admins.
+
+13. **API Integration**:
+    Frontend communicates with backend via **RESTful APIs**.
+
+14. **Setup & Deployment**:
+    Easy setup using **GitHub**, with clear instructions to **clone, install, and run locally**.
+
+15. **Hosting**:
+    Deployed on **Vercel** with full documentation and tutorials.
+
+
+### 📽️ **Project Demo & Code Links**
+
+* 🔗 **Live Demo (Walkthrough Video)**:
+  [ShopSmart Demo](https://drive.google.com/file/d/1OA5mkJzda3LZc8Uo7BAI8qZHcH3wHiuy/view?usp=sharing)
+
+* 💻 **Source Code + Full Demo**:
+  [ShopSmart Code & Demo](https://drive.google.com/file/d/1jzebl3jn6a37_ntwPmjg5K2yzpKPbF0a/view?usp=sharing)
+
+
